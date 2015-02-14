@@ -1,8 +1,5 @@
 ;README: run by (load "deriv.lsp"). 
 
-;NOTE: Please pardon me for not following the test procedure, I run out of time and will do it next time. I also 
-; didn't write the full provided test cases because I run out of time but I think it will pass
-
 
 (defun deriv (form var) 
 "Return list as derivative form of the former list"
