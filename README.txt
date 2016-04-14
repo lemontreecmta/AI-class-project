@@ -2,7 +2,7 @@ My code for projects in Artificial Intelligence CS 356 - Spring 2015.
 
 Projects include:
 
-1. Rule-based differentiation.
+1. Differentiation with LISP.
 
 2. Feed-forward neural network construction using LISP
 
