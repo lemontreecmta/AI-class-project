@@ -1,0 +1,3 @@
+Assignment: In this assignment you will investigate several state space search algorithms as applied to the 8-puzzle.  The 8-puzzle is a small board game for a single player;  it consists of 8 square tiles numbered 1 through 8 and one blank space on a 3 x 3 board.  Moves of the puzzles are made by sliding an adjacent tile into the position occupied by the blank space, which has the effect of exchanging the positions of the tile and the blank space.  Only tiles that are horizontally or vertically adjacent may be moved into the blank space.
+
+How-to-run: My implementation of DFS, BFS and iterative deeping for 8-puzzle is in modified-search.lisp
